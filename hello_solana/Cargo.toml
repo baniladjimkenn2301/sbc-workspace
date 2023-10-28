@@ -1,0 +1,5 @@
+[dependencies]
+solana-program = "1.16.5"
+
+[lib]
+crate-type = ["cdylib", "lib"]
