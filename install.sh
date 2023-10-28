@@ -1,4 +1,5 @@
-# Install Solana Toolsuitesh -c "$(curl -sSfL https://release.solana.com/v1.17.3/install)"
+# Install Solana Toolsuitesh 
+sh -c "$(curl -sSfL https://release.solana.com/v1.17.3/install)"
 
 
 # Install Rust and Cargo
